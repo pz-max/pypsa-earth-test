@@ -193,13 +193,6 @@ The documentation is available here: [documentation](https://pypsa-meets-africa.
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/euronion">
-            <img src="https://avatars.githubusercontent.com/u/42553970?v=4" width="100;" alt="euronion"/>
-            <br />
-            <sub><b>Euronion</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/giacfalk">
             <img src="https://avatars.githubusercontent.com/u/36954873?v=4" width="100;" alt="giacfalk"/>
             <br />
@@ -211,6 +204,13 @@ The documentation is available here: [documentation](https://pypsa-meets-africa.
             <img src="https://avatars.githubusercontent.com/u/99509555?v=4" width="100;" alt="Ekaterina-Vo"/>
             <br />
             <sub><b>Ekaterina-Vo</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/euronion">
+            <img src="https://avatars.githubusercontent.com/u/42553970?v=4" width="100;" alt="euronion"/>
+            <br />
+            <sub><b>Euronion</b></sub>
         </a>
     </td>
     <td align="center">
@@ -243,10 +243,17 @@ The documentation is available here: [documentation](https://pypsa-meets-africa.
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/martacki">
-            <img src="https://avatars.githubusercontent.com/u/53824825?v=4" width="100;" alt="martacki"/>
+        <a href="https://github.com/EmreYorat">
+            <img src="https://avatars.githubusercontent.com/u/93644024?v=4" width="100;" alt="EmreYorat"/>
             <br />
-            <sub><b>Martha Frysztacki</b></sub>
+            <sub><b>EmreYorat</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/HanaElattar">
+            <img src="https://avatars.githubusercontent.com/u/87770004?v=4" width="100;" alt="HanaElattar"/>
+            <br />
+            <sub><b>HanaElattar</b></sub>
         </a>
     </td>
     <td align="center">
@@ -255,22 +262,8 @@ The documentation is available here: [documentation](https://pypsa-meets-africa.
             <br />
             <sub><b>Jarrad Wright</b></sub>
         </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/EmreYorat">
-            <img src="https://avatars.githubusercontent.com/u/93644024?v=4" width="100;" alt="EmreYorat"/>
-            <br />
-            <sub><b>EmreYorat</b></sub>
-        </a>
     </td></tr>
 <tr>
-    <td align="center">
-        <a href="https://github.com/HanaElattar">
-            <img src="https://avatars.githubusercontent.com/u/87770004?v=4" width="100;" alt="HanaElattar"/>
-            <br />
-            <sub><b>HanaElattar</b></sub>
-        </a>
-    </td>
     <td align="center">
         <a href="https://github.com/squoilin">
             <img src="https://avatars.githubusercontent.com/u/4547840?v=4" width="100;" alt="squoilin"/>
